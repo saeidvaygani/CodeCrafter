@@ -9,8 +9,5 @@ class studentsAdmin(admin.ModelAdmin):
 
 
 
-
-
 admin.site.register(students_models,studentsAdmin)
-
 
